@@ -5,14 +5,14 @@ permalink:        pretty
 title:            Chris Aversa
 tagline:          Machine Learning Engineer
 description:      Machine Learning Engineer
-url:              http://stevebottos.github.io
+url:              http://chrisaversa.github.io/chrisaversa
 baseurl:          /chrisaversa.github.io/chrisaversa
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
 author:
-  name:           Steve Bottos
+  name:           Chris Aversa
   url:            
 
 paginate:         5
