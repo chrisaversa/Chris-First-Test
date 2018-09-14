@@ -6,7 +6,7 @@ title:            Chris Aversa
 tagline:          Machine Learning Engineer
 description:      Machine Learning Engineer
 url:              http://chrisaversa.github.io/chrisaversa
-baseurl:          /chrisaversa.github.io/chrisaversa
+baseurl:          /chrisaversa
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
