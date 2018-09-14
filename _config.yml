@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Steve Bottos
+tagline:          Machine Learning Engineer
+description:      Machine Learning Engineer
+url:              http://stevebottos.github.io
+baseurl:          /stevebottos.github.io/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name:           Steve Bottos
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com
